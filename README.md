@@ -2,7 +2,7 @@ C - Simple_Shell
 
 A project by Givens and Gabriel
 
-This project aim at nurturing our poisitive mindset to meet the ALX standard of learning and to  prepare us for advance project task. Also the shell program include system call, process, bit manipulation, file managment, error handling and the task itself.
+This project aim at nurturing our poisitive mindset to meet the ALX standard of learning and to prepare us for advance project task. Also the shell program include system call, process, bit manipulation, file managment, error handling and the task itself.
 
 This program was written entirely in original C, so Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh).
 
@@ -22,10 +22,8 @@ Display a prompt and wait for the user to type a command.
 - Handle the PATH.
 - Support the exit features and the exit status.
 
-
 /** Builtins **/
 The shell support for the following built-in commands
-
 - Command             - Definition                                                                                -
 - ******************* - ***************************************************************************************** -
 - exit [n]            - Exit the shell, with an optional exit status, n.                                          -
