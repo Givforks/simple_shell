@@ -1,6 +1,6 @@
-C - Simple_Shell
+C - Simple_Shell.
 
-A project by Givens and Gabriel
+A project by Givens and Gabriel.
 
 This project aim at nurturing our poisitive mindset to meet the ALX standard of learning and to prepare us for advance project task. Also the shell program include system call, process, bit manipulation, file managment, error handling and the task itself.
 
