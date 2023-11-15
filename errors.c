@@ -3,7 +3,7 @@
 /**
  *_eputs - prints an input string
  * @str: the string to be printed
- *
+ * By Givens and Gabriel
  * Return: Nothing
  */
 void _eputs(char *str)
