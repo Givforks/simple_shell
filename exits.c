@@ -32,6 +32,7 @@ char *_strncpy(char *dest, char *src, int n)
 /**
  **_strncat - concatenates two strings
  *@dest: the first string
+ *by Given and Gabriel 
  *@src: the second string
  *@n: the amount of bytes to be maximally used
  *Return: the concatenated string
