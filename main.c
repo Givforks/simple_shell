@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * @ac: arg count
- * by Given and Gabriel
+ * By Given and Gabriel
  * @av: arg vector
  * Return: NULL 0 on success, 1 on error (completed)
  *
