@@ -3,7 +3,7 @@
 /**
  * list_len - determines length of linked list
  * @h: pointer to first node
- * by Given and Gabriel
+ * By Given and Gabriel
  * Return: size of list
  */
 size_t list_len(const list_t *h)
