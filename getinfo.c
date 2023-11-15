@@ -2,7 +2,7 @@
 
 /**
  * clear_info - initializes info_t struct
- * by Given and Gabriel
+ * By Given and Gabriel
  * @info: struct address
  */
 void clear_info(info_t *info)
